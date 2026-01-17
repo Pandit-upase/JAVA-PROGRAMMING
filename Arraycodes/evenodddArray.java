@@ -14,7 +14,7 @@ public class evenodddArray
                 evencount++;               
             } 
             else
-           {
+        {
                 oddcount++;
             }
         }
