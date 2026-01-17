@@ -43,4 +43,4 @@ public class checkarrayequal {
 			System.out.println("Array's elements are not equal");
 		}
 	}
-}
+ }
