@@ -16,4 +16,4 @@ public class Unreachablerror
              System.out.println("This block handles all exception types");
         }
     }
-}
+}//unreachable error 
