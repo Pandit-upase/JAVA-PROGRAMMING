@@ -4,8 +4,8 @@ public class cocatarray2 {
     
     public static void main(String[] args) {
         
-        int a[]={1,2,3};
-        int b[]={4,5,6};
+        int a[]={1,2,3, 4};
+        int b[]={4,5,6,5};
 
         int c[]=new int [a.length +b.length];
 
