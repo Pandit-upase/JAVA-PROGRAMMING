@@ -25,4 +25,4 @@ public class failsafe3
         }
         System.out.println(list);
     }
-}
+}// Fail fast behavior
