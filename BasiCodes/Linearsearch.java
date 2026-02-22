@@ -5,7 +5,7 @@ public class Linearsearch {
 
 	public static void main(String[] args) {
 		
-		int a[]= {10,20,30,50,20,};
+		int a[]= {10,20,30,50,37,20,};
 		
 		int search_var=50;
 		
