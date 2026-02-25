@@ -20,6 +20,6 @@ public class ConsumerDemo
         Consumer<String> combined = c1.andThen(c2);
 
         // Using combined consumer
-        combined.accept("SONU");
+        combined.accept("PANDIT");
     }
 }
