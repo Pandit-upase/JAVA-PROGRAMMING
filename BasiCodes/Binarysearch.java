@@ -4,7 +4,7 @@ public class Binarysearch {
 
 	public static void main(String[] args) {
 		
-		int a[]= {10,20,30,40,50,60};
+		int a[]= {10,20,30,40,50,60,70};
 		
 		int key=20;
 		int lower=0;
