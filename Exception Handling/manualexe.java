@@ -2,7 +2,7 @@ public class manualexe {
     
     public static void main(String[] args) {
         
-        int age =20;
+        int age 10;
 
         if(age<18)
         {
