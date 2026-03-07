@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 
 public class Charcount {
     public static void main(String[] args) {
-        String input = "java";
+        String input = "Pyhton is a great programming language!";
 
         Map<Character, Long> countMap = input.chars()
                 .mapToObj(c -> (char) c)
