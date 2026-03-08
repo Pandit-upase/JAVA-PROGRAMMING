@@ -1,7 +1,9 @@
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
-public class filterstrings {
+public class filterstrings 
+    {
     
     public static void main(String[] args) {
         
@@ -9,6 +11,6 @@ public class filterstrings {
 
         list.stream()
                   .filter(s ->s.startsWith("A"))
-                  .forEach(System.out::println);
-    }
+                  .collect(Collectors.toList());
 }
+    }
