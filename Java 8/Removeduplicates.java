@@ -5,7 +5,7 @@ public class Removeduplicates{
 
     public static void main(String[] args) {
 
-        List<Integer> numbers = Arrays.asList(5, 2, 8, 2, 10, 5, 3, 8, 12, 7);
+        List<Integer> numbers = Arrays.asList(5, 2, 5, 2, 10, 5, 3, 8, 12, 7);
 
         List<Integer> result = numbers.stream()
                 .distinct()                // remove duplicates
