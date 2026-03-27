@@ -2,7 +2,7 @@
 VALUE FROM TRY SO OUTPUT WILL BE 20 */
 public class returnoveride {
     
-    static int test()
+    static int testt()
     {
         try {
             return 10;
