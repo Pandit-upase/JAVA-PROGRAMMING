@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 public class Joinstrings {
     public static void main(String[] args) {
         
-        List<String>list=Arrays.asList("java", "spring", "boot");
+        List<String>list=Arrays.asList("java", "spring", "booot");
 
         String result=list.stream()
                           .collect(Collectors.joining("," ));
