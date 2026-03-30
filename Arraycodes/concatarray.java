@@ -4,7 +4,7 @@ public class concatarray{
     
     public static void main(String[] args) {
         
-        int a[]={1,2,3};
+        int a[]={1,2,3,4};
        // int b[]={4,5,6};
         
        int c[]=new int[2* a.length];
